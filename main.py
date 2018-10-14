@@ -27,6 +27,7 @@
 import logging
 logging.getLogger().setLevel(logging.ERROR)
 
+# try to import a library not on my desktop (to be changed accordingly)
 import redis
 logging.debug("redis loaded")
 

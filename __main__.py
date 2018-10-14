@@ -82,5 +82,4 @@ if cmd is not None:
         cmd = "pip install -r requirements.txt"
         os.system(cmd)
 
-logging.info("python version: {}".format(sys.version))
 import main
