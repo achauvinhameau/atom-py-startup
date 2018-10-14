@@ -22,6 +22,7 @@
 
 """
  main module which loads virtualenv and init it if not existing
+ once initialized the environnement, the main.py will be started
 """
 
 import logging
