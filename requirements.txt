@@ -1,0 +1,3 @@
+# just a test
+numpy
+redis
